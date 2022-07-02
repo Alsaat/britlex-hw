@@ -1,0 +1,38 @@
+body {
+    font-family: Poppins, sans-serif;
+
+}
+
+.logo{
+text-decoration: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #000000;
+
+
+}
+.web{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #939393;}
+
+
+.nav{
+list-style-type: none;
+text-decoration: none;
+
+
+}
